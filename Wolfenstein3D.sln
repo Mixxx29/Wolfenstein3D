@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wolfenstein3D", "Wolfenstein3D\Wolfenstein3D.vcxproj", "{F0BB589F-C8FD-4385-B9C9-D4C014033052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0BB589F-C8FD-4385-B9C9-D4C014033052}.Debug|x64.ActiveCfg = Debug|x64
+		{F0BB589F-C8FD-4385-B9C9-D4C014033052}.Debug|x64.Build.0 = Debug|x64
+		{F0BB589F-C8FD-4385-B9C9-D4C014033052}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0BB589F-C8FD-4385-B9C9-D4C014033052}.Debug|x86.Build.0 = Debug|Win32
+		{F0BB589F-C8FD-4385-B9C9-D4C014033052}.Release|x64.ActiveCfg = Release|x64
+		{F0BB589F-C8FD-4385-B9C9-D4C014033052}.Release|x64.Build.0 = Release|x64
+		{F0BB589F-C8FD-4385-B9C9-D4C014033052}.Release|x86.ActiveCfg = Release|Win32
+		{F0BB589F-C8FD-4385-B9C9-D4C014033052}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7CA7291-51E9-448E-8C06-0A29F055E7DF}
+	EndGlobalSection
+EndGlobal
